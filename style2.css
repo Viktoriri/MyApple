@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(243, 224, 231);
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.block-1, .block-2, .block-3, .block-4, .block-5, .block-6, .block-7, .block-8, .block-9 {
+    background-color: rgb(146, 149, 149);
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.block-1 {
+    width: 225px;
+    height: 340px;
+}
+
+.block-2, .block-3 {
+    width: 242px;
+    height: 200px;
+}
+
+.block-4 {
+    width: 275px;
+    height: 375px;
+}
+
+.block-5 {
+    width: 225px;
+    height: 160px;
+}
+
+.block-6 {
+    width: 495px;
+    height: 300px;
+}
+
+.block-7 {
+    width: 275px;
+    height: 335px;
+}
+
+.block-8 {
+    width: 470px;
+    height: 200px;
+}
+
+.block-9 {
+    width: 250px;
+    height: 200px;
+}
